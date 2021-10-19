@@ -1,0 +1,146 @@
+O:\Администрация\Администратор\Колледж\2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\Login.g.cs
+O:\Администрация\Администратор\Колледж\2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\App.g.cs
+O:\Администрация\Администратор\Колледж\2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\MISBolnica_MarkupCompile.cache
+O:\Администрация\Администратор\Колледж\2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\MISBolnica_MarkupCompile.lref
+O:\Администрация\Администратор\Колледж\2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\MainForm.g.cs
+O:\Администрация\Администратор\Колледж\2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\bin\Debug\MISBolnica.exe.config
+O:\Администрация\Администратор\Колледж\2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\bin\Debug\MISBolnica.exe
+O:\Администрация\Администратор\Колледж\2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\bin\Debug\MISBolnica.pdb
+O:\Администрация\Администратор\Колледж\2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\bin\Debug\MaterialDesignColors.dll
+O:\Администрация\Администратор\Колледж\2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\bin\Debug\MaterialDesignThemes.Wpf.dll
+O:\Администрация\Администратор\Колледж\2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\bin\Debug\MaterialDesignColors.pdb
+O:\Администрация\Администратор\Колледж\2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\bin\Debug\MaterialDesignThemes.Wpf.pdb
+O:\Администрация\Администратор\Колледж\2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\bin\Debug\MaterialDesignThemes.Wpf.xml
+O:\Администрация\Администратор\Колледж\2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\App.baml
+O:\Администрация\Администратор\Колледж\2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\Login.baml
+O:\Администрация\Администратор\Колледж\2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\MainForm.baml
+O:\Администрация\Администратор\Колледж\2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\MISBolnica.g.resources
+O:\Администрация\Администратор\Колледж\2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\MISBolnica.Properties.Resources.resources
+O:\Администрация\Администратор\Колледж\2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\MISBolnica.csproj.GenerateResource.cache
+O:\Администрация\Администратор\Колледж\2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\MISBolnica.csproj.CoreCompileInputs.cache
+O:\Администрация\Администратор\Колледж\2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\MISBolnica.csproj.CopyComplete
+O:\Администрация\Администратор\Колледж\2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\MISBolnica.exe
+O:\Администрация\Администратор\Колледж\2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\MISBolnica.pdb
+O:\Администрация\Администратор\Колледж\2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\Settings.g.cs
+O:\Администрация\Администратор\Колледж\2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\Settings.baml
+D:\Колледж 2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\bin\Debug\MISBolnica.exe.config
+D:\Колледж 2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\bin\Debug\MISBolnica.exe
+D:\Колледж 2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\bin\Debug\MISBolnica.pdb
+D:\Колледж 2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\bin\Debug\MaterialDesignColors.dll
+D:\Колледж 2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Колледж 2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\bin\Debug\MaterialDesignColors.pdb
+D:\Колледж 2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Колледж 2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Колледж 2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\MISBolnica.csprojAssemblyReference.cache
+D:\Колледж 2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\Login.g.cs
+D:\Колледж 2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\MainForm.g.cs
+D:\Колледж 2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\Settings.g.cs
+D:\Колледж 2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\App.g.cs
+D:\Колледж 2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\MISBolnica_MarkupCompile.cache
+D:\Колледж 2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\MISBolnica_MarkupCompile.lref
+D:\Колледж 2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\App.baml
+D:\Колледж 2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\Login.baml
+D:\Колледж 2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\MainForm.baml
+D:\Колледж 2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\Settings.baml
+D:\Колледж 2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\MISBolnica.g.resources
+D:\Колледж 2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\MISBolnica.Properties.Resources.resources
+D:\Колледж 2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\MISBolnica.csproj.GenerateResource.cache
+D:\Колледж 2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\MISBolnica.csproj.CoreCompileInputs.cache
+D:\Колледж 2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\MISBolnica.csproj.CopyComplete
+D:\Колледж 2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\MISBolnica.exe
+D:\Колледж 2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\MISBolnica.pdb
+D:\Колледж 2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\About.g.cs
+D:\Колледж 2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\About.baml
+D:\Колледж 2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\Mkb.g.cs
+D:\Колледж 2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\Mkb.baml
+D:\Колледж 2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\Otdelenia.g.cs
+D:\Колледж 2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\Otdelenia.baml
+D:\Колледж 2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\Pacient.g.cs
+D:\Колледж 2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\Pacient.baml
+D:\Колледж 2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\MISBolnica.csproj.ResolveComReference.cache
+D:\Колледж 2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\PacientAddEdit.g.cs
+D:\Колледж 2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\PacientAddEdit.baml
+D:\Колледж 2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\FormAdd.g.cs
+D:\Колледж 2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\FormAdd.baml
+D:\Колледж 2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\VipiskaOrOtkaz.g.cs
+D:\Колледж 2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\VipiskaOrOtkaz.baml
+D:\Колледж 2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\Vipisanie.g.cs
+D:\Колледж 2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\Vipisanie.baml
+D:\Колледж 2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\Otkazi.g.cs
+D:\Колледж 2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\Otkazi.baml
+D:\Колледж 2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\Report.g.cs
+D:\Колледж 2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\Report.baml
+D:\Колледж 2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\Adminka.g.cs
+D:\Колледж 2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\Adminka.baml
+O:\Администрация\Администратор\Колледж\2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\MISBolnica.csproj.ResolveComReference.cache
+O:\Администрация\Администратор\Колледж\2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\Adminka.g.cs
+O:\Администрация\Администратор\Колледж\2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\FormAdd.g.cs
+O:\Администрация\Администратор\Колледж\2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\Otdelenia.g.cs
+O:\Администрация\Администратор\Колледж\2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\Mkb.g.cs
+O:\Администрация\Администратор\Колледж\2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\About.g.cs
+O:\Администрация\Администратор\Колледж\2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\Otkazi.g.cs
+O:\Администрация\Администратор\Колледж\2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\Report.g.cs
+O:\Администрация\Администратор\Колледж\2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\Vipisanie.g.cs
+O:\Администрация\Администратор\Колледж\2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\Pacient.g.cs
+O:\Администрация\Администратор\Колледж\2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\PacientAddEdit.g.cs
+O:\Администрация\Администратор\Колледж\2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\VipiskaOrOtkaz.g.cs
+O:\Администрация\Администратор\Колледж\2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\Adminka.baml
+O:\Администрация\Администратор\Колледж\2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\FormAdd.baml
+O:\Администрация\Администратор\Колледж\2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\Otdelenia.baml
+O:\Администрация\Администратор\Колледж\2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\Mkb.baml
+O:\Администрация\Администратор\Колледж\2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\About.baml
+O:\Администрация\Администратор\Колледж\2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\Otkazi.baml
+O:\Администрация\Администратор\Колледж\2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\Report.baml
+O:\Администрация\Администратор\Колледж\2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\Vipisanie.baml
+O:\Администрация\Администратор\Колледж\2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\Pacient.baml
+O:\Администрация\Администратор\Колледж\2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\PacientAddEdit.baml
+O:\Администрация\Администратор\Колледж\2020\Дипломы\Сергей универ\MISBolnica\MISBolnica\obj\Debug\VipiskaOrOtkaz.baml
+D:\Заказ дипломов\2021\Универ\Шишло\MISBolnica\MISBolnica\bin\Debug\MISBolnica.exe.config
+D:\Заказ дипломов\2021\Универ\Шишло\MISBolnica\MISBolnica\bin\Debug\MISBolnica.exe
+D:\Заказ дипломов\2021\Универ\Шишло\MISBolnica\MISBolnica\bin\Debug\MISBolnica.pdb
+D:\Заказ дипломов\2021\Универ\Шишло\MISBolnica\MISBolnica\bin\Debug\MaterialDesignColors.dll
+D:\Заказ дипломов\2021\Универ\Шишло\MISBolnica\MISBolnica\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Заказ дипломов\2021\Универ\Шишло\MISBolnica\MISBolnica\bin\Debug\MaterialDesignColors.pdb
+D:\Заказ дипломов\2021\Универ\Шишло\MISBolnica\MISBolnica\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Заказ дипломов\2021\Универ\Шишло\MISBolnica\MISBolnica\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Заказ дипломов\2021\Универ\Шишло\MISBolnica\MISBolnica\obj\Debug\MISBolnica.csprojAssemblyReference.cache
+D:\Заказ дипломов\2021\Универ\Шишло\MISBolnica\MISBolnica\obj\Debug\MISBolnica.csproj.ResolveComReference.cache
+D:\Заказ дипломов\2021\Универ\Шишло\MISBolnica\MISBolnica\obj\Debug\Adminka.g.cs
+D:\Заказ дипломов\2021\Универ\Шишло\MISBolnica\MISBolnica\obj\Debug\FormAdd.g.cs
+D:\Заказ дипломов\2021\Универ\Шишло\MISBolnica\MISBolnica\obj\Debug\Otdelenia.g.cs
+D:\Заказ дипломов\2021\Универ\Шишло\MISBolnica\MISBolnica\obj\Debug\Mkb.g.cs
+D:\Заказ дипломов\2021\Универ\Шишло\MISBolnica\MISBolnica\obj\Debug\About.g.cs
+D:\Заказ дипломов\2021\Универ\Шишло\MISBolnica\MISBolnica\obj\Debug\Login.g.cs
+D:\Заказ дипломов\2021\Универ\Шишло\MISBolnica\MISBolnica\obj\Debug\MainForm.g.cs
+D:\Заказ дипломов\2021\Универ\Шишло\MISBolnica\MISBolnica\obj\Debug\Otkazi.g.cs
+D:\Заказ дипломов\2021\Универ\Шишло\MISBolnica\MISBolnica\obj\Debug\Report.g.cs
+D:\Заказ дипломов\2021\Универ\Шишло\MISBolnica\MISBolnica\obj\Debug\Vipisanie.g.cs
+D:\Заказ дипломов\2021\Универ\Шишло\MISBolnica\MISBolnica\obj\Debug\Pacient.g.cs
+D:\Заказ дипломов\2021\Универ\Шишло\MISBolnica\MISBolnica\obj\Debug\PacientAddEdit.g.cs
+D:\Заказ дипломов\2021\Универ\Шишло\MISBolnica\MISBolnica\obj\Debug\Settings.g.cs
+D:\Заказ дипломов\2021\Универ\Шишло\MISBolnica\MISBolnica\obj\Debug\VipiskaOrOtkaz.g.cs
+D:\Заказ дипломов\2021\Универ\Шишло\MISBolnica\MISBolnica\obj\Debug\App.g.cs
+D:\Заказ дипломов\2021\Универ\Шишло\MISBolnica\MISBolnica\obj\Debug\MISBolnica_MarkupCompile.cache
+D:\Заказ дипломов\2021\Универ\Шишло\MISBolnica\MISBolnica\obj\Debug\MISBolnica_MarkupCompile.lref
+D:\Заказ дипломов\2021\Универ\Шишло\MISBolnica\MISBolnica\obj\Debug\App.baml
+D:\Заказ дипломов\2021\Универ\Шишло\MISBolnica\MISBolnica\obj\Debug\Adminka.baml
+D:\Заказ дипломов\2021\Универ\Шишло\MISBolnica\MISBolnica\obj\Debug\FormAdd.baml
+D:\Заказ дипломов\2021\Универ\Шишло\MISBolnica\MISBolnica\obj\Debug\Otdelenia.baml
+D:\Заказ дипломов\2021\Универ\Шишло\MISBolnica\MISBolnica\obj\Debug\Mkb.baml
+D:\Заказ дипломов\2021\Универ\Шишло\MISBolnica\MISBolnica\obj\Debug\About.baml
+D:\Заказ дипломов\2021\Универ\Шишло\MISBolnica\MISBolnica\obj\Debug\Login.baml
+D:\Заказ дипломов\2021\Универ\Шишло\MISBolnica\MISBolnica\obj\Debug\MainForm.baml
+D:\Заказ дипломов\2021\Универ\Шишло\MISBolnica\MISBolnica\obj\Debug\Otkazi.baml
+D:\Заказ дипломов\2021\Универ\Шишло\MISBolnica\MISBolnica\obj\Debug\Report.baml
+D:\Заказ дипломов\2021\Универ\Шишло\MISBolnica\MISBolnica\obj\Debug\Vipisanie.baml
+D:\Заказ дипломов\2021\Универ\Шишло\MISBolnica\MISBolnica\obj\Debug\Pacient.baml
+D:\Заказ дипломов\2021\Универ\Шишло\MISBolnica\MISBolnica\obj\Debug\PacientAddEdit.baml
+D:\Заказ дипломов\2021\Универ\Шишло\MISBolnica\MISBolnica\obj\Debug\Settings.baml
+D:\Заказ дипломов\2021\Универ\Шишло\MISBolnica\MISBolnica\obj\Debug\VipiskaOrOtkaz.baml
+D:\Заказ дипломов\2021\Универ\Шишло\MISBolnica\MISBolnica\obj\Debug\MISBolnica.g.resources
+D:\Заказ дипломов\2021\Универ\Шишло\MISBolnica\MISBolnica\obj\Debug\MISBolnica.Properties.Resources.resources
+D:\Заказ дипломов\2021\Универ\Шишло\MISBolnica\MISBolnica\obj\Debug\MISBolnica.csproj.GenerateResource.cache
+D:\Заказ дипломов\2021\Универ\Шишло\MISBolnica\MISBolnica\obj\Debug\MISBolnica.csproj.CoreCompileInputs.cache
+D:\Заказ дипломов\2021\Универ\Шишло\MISBolnica\MISBolnica\obj\Debug\MISBolnica.csproj.CopyComplete
+D:\Заказ дипломов\2021\Универ\Шишло\MISBolnica\MISBolnica\obj\Debug\MISBolnica.exe
+D:\Заказ дипломов\2021\Универ\Шишло\MISBolnica\MISBolnica\obj\Debug\MISBolnica.pdb

@@ -1,0 +1,57 @@
+﻿<Page x:Class="MISBolnica.Settings"
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:MISBolnica"
+      mc:Ignorable="d" 
+      d:DesignHeight="505" d:DesignWidth="772"
+      Title="Settings"
+      FontFamily="Champagne &amp; Limousines"
+      Loaded="Page_Loaded">
+
+    <Grid Background="Azure">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="60"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <StackPanel>
+            
+        </StackPanel>
+        <TextBlock Grid.Row="0" Text="Настройка организации" VerticalAlignment="Center" HorizontalAlignment="Center" FontFamily="Champagne &amp; Limousines" FontSize="28"/>
+        <StackPanel Grid.Row="1">
+            <TextBlock Text="Наименование" FontFamily="Champagne &amp; Limousines" FontSize="18" Margin="15 0 0 0"/>
+            <TextBox x:Name="textNazvanie" HorizontalAlignment="Left" Width="400" Background="White" Margin="15 0 0 0" Text="11111111111"/>
+        </StackPanel>
+        <StackPanel Grid.Row="2">
+            <TextBlock Text="Адрес" FontFamily="Champagne &amp; Limousines" FontSize="18" Margin="15 0 0 0"/>
+            <TextBox x:Name="textAdres" HorizontalAlignment="Left" Width="400" Background="White" Margin="15 0 0 0"/>
+        </StackPanel>
+        <StackPanel Grid.Row="3">
+            <TextBlock Text="УНП" FontFamily="Champagne &amp; Limousines" FontSize="18" Margin="15 0 0 0"/>
+            <TextBox x:Name="textUnp" HorizontalAlignment="Left" Width="400" Background="White" Margin="15 0 0 0"/>
+        </StackPanel>
+        <StackPanel Grid.Row="4">
+            <TextBlock Text="Главный врач" FontFamily="Champagne &amp; Limousines" FontSize="18" Margin="15 0 0 0"/>
+            <TextBox x:Name="textGlavniy" HorizontalAlignment="Left" Width="400" Background="White" Margin="15 0 0 0"/>
+        </StackPanel>
+        <StackPanel Grid.Row="5" Orientation="Horizontal">
+            <ToggleButton x:Name="toggleEdit" Style="{DynamicResource MaterialDesignActionDarkToggleButton}"
+                          Foreground="White"
+                          Grid.Row="5" IsChecked="True" Margin="15 0 0 0" 
+                          Unchecked="ToggleEdit_Unchecked" 
+                          Checked="ToggleEdit_Checked"
+                          Cursor="Hand"/>
+            <TextBlock VerticalAlignment="Center" Text="Разрешить редактирование настроек" FontFamily="Champagne &amp; Limousines" FontSize="18" Margin="15 0 0 0" Cursor="Hand"/>
+        </StackPanel>
+        <Button Grid.Row="6" Width="150" Name="saveSettings" HorizontalAlignment="Left" VerticalAlignment="Center" Content="СОХРАНИТЬ" Margin="150 0 0 0" Click="saveSettings_Click"/>
+        <Button Grid.Row="6" Width="150" Name="cancelSettings" HorizontalAlignment="Right" VerticalAlignment="Center" Content="ОТМЕНА" Margin="0 0 150 0" Click="cancelSettings_Click"/>
+    </Grid>
+</Page>
